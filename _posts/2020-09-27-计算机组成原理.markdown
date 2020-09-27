@@ -5,7 +5,13 @@ date:   2020-09-27 18:48:50 +0800
 categories: jekyll update
 ---
 
-[toc]
+* 目录
+{:toc}
+
+```c++
+#include <iostream>
+using namespace std;
+```
 
 # ch1
 
