@@ -3,21 +3,17 @@ layout: post
 title:  "计算机组成原理"
 date:   2020-09-27 18:48:50 +0800
 categories: jekyll update
+permalink: /test/
+excerpt_separator: <!--more-->
 ---
-
-* 目录
-{:toc}
-
-```c++
-#include <iostream>
-using namespace std;
-```
 
 # ch1
 
 **冯诺依曼结构数据和指令不分开存储，哈佛结构分开。**
 
 **存储字长：存储单元的位数。**
+
+<!--more--> 
 
 **机器字长：CPU 一次能处理的二进制数据的位数（32 位机器）= CPU 内部通路宽度。**
 
